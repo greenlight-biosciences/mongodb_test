@@ -1,0 +1,21 @@
+# Working jsonSchema
+
+{
+  $jsonSchema: {
+    bsonType: 'object',
+    required: [
+      'Experiment',
+      'Createdt'
+    ],
+    properties: {
+      Experiment: {
+        bsonType: 'string',
+        description: 'must be a string and is required'
+      },
+      Createdt: {
+        bsonType: 'date',
+        description: 'must be a date and is required'
+      }
+    }
+  }
+}
