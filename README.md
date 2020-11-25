@@ -9,3 +9,6 @@ https://docs.mongodb.com/manual/core/data-modeling-introduction/
 
 #Schema Validation
 https://docs.mongodb.com/manual/core/schema-validation/
+
+#overall tutorial
+https://www.tutorialspoint.com/mongodb/
